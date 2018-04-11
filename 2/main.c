@@ -8,10 +8,10 @@ int main() {
 
     while ((c = getc(stdin)) != EOF) {
         if (c > 47 && c < 58) {
-            d_count += 1;
+            d_count++;
         }
         else if ((c > 64 && c < 91) || (c > 96 && c < 123)) {
-            l_count += 1;
+            l_count++;
         }
     }
 

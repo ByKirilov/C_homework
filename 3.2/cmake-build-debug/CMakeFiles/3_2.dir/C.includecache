@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/media/ars/Data/HW/C/3.2/main.c
+/media/ars/Data/HW/C/C_homework/3.2/main.c
 stdio.h
+-
+stdlib.h
 -
 
